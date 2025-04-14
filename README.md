@@ -1,4 +1,4 @@
-# Guia Completo de Comandos SQL
+# Guia de Comandos SQL
 
 ## Comandos Básicos de DDL (Data Definition Language)
 
